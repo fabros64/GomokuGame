@@ -1,0 +1,62 @@
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe.config
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\bin\Debug\GomokuGame.pdb
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csprojAssemblyReference.cache
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.GomokuMainForm.resources
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.Properties.Resources.resources
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.GenerateResource.cache
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.CoreCompileInputs.cache
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.exe
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.pdb
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\obj\Debug\GomokuGame.MenuForm.resources
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\bin\Debug\Graphics\kolo.PNG
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\bin\Debug\Graphics\cross.PNG
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\bin\Debug\Graphics\GomokuBlack.png
+C:\Users\Michał Fabrowski\source\repos\GomokuGame\GomokuGame\bin\Debug\Graphics\GomokuWhite.png
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe.config
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\bin\Debug\GomokuGame.pdb
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csprojResolveAssemblyReference.cache
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\obj\Debug\GomokuGame.GomokuMainForm.resources
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\obj\Debug\GomokuGame.MenuForm.resources
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\obj\Debug\GomokuGame.Properties.Resources.resources
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.GenerateResource.Cache
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\obj\Debug\GomokuGame.exe
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\obj\Debug\GomokuGame.pdb
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\bin\Debug\Images\GomokuBlack.png
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\bin\Debug\Images\kolo.PNG
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\bin\Debug\Images\cross.PNG
+D:\fabros\GomokuGame\GomokuGame\GomokuGame\bin\Debug\Images\GomokuWhite.png
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\GomokuBlack.png
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\kolo.PNG
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\cross.PNG
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\GomokuWhite.png
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe.config
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\bin\Debug\GomokuGame.pdb
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.GomokuMainForm.resources
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.MenuForm.resources
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.Properties.Resources.resources
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.GenerateResource.cache
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.CoreCompileInputs.cache
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.exe
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.pdb
+C:\Users\Michał Fabrowski\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.ResultForm.resources
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\GomokuIcon.ico
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\GomokuBlack.png
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\kolo.PNG
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\cross.PNG
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\GomokuWhite.png
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\Images\tlo.jpg
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe.config
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\GomokuGame.exe
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\bin\Debug\GomokuGame.pdb
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.GomokuMainForm.resources
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.MenuForm.resources
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.Properties.Resources.resources
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.ResultForm.resources
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.exe
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.pdb
+C:\Users\Michał\Desktop\GomokuGame\GomokuGame\obj\Debug\GomokuGame.csprojAssemblyReference.cache
